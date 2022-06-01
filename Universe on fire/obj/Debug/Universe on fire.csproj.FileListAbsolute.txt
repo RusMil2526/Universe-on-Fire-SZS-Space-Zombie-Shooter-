@@ -1,0 +1,10 @@
+C:\Users\дом\source\repos\Universe on fire\Universe on fire\bin\Debug\Universe on fire.exe.config
+C:\Users\дом\source\repos\Universe on fire\Universe on fire\bin\Debug\Universe on fire.exe
+C:\Users\дом\source\repos\Universe on fire\Universe on fire\bin\Debug\Universe on fire.pdb
+C:\Users\дом\source\repos\Universe on fire\Universe on fire\obj\Debug\Universe on fire.csproj.AssemblyReference.cache
+C:\Users\дом\source\repos\Universe on fire\Universe on fire\obj\Debug\Universe_on_fire.UniverseOnFire.resources
+C:\Users\дом\source\repos\Universe on fire\Universe on fire\obj\Debug\Universe_on_fire.Properties.Resources.resources
+C:\Users\дом\source\repos\Universe on fire\Universe on fire\obj\Debug\Universe on fire.csproj.GenerateResource.cache
+C:\Users\дом\source\repos\Universe on fire\Universe on fire\obj\Debug\Universe on fire.csproj.CoreCompileInputs.cache
+C:\Users\дом\source\repos\Universe on fire\Universe on fire\obj\Debug\Universe on fire.exe
+C:\Users\дом\source\repos\Universe on fire\Universe on fire\obj\Debug\Universe on fire.pdb
